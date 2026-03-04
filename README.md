@@ -2,7 +2,6 @@
 
 An AI-powered tech news aggregator that pulls stories from Hacker News and NewsAPI, generates summaries, sentiment scores, categories, and enables semantic search via pgvector embeddings.
 
-**Live demo:** https://twit.vercel.app
 
 ![TWIT Screenshot](screenshot.png)
 
